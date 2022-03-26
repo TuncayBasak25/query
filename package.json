@@ -1,0 +1,19 @@
+{
+  "name": "query",
+  "version": "1.0.0",
+  "description": "General query functions and types.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuncayBasak25/query.git"
+  },
+  "author": "Tuncay Basak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TuncayBasak25/query/issues"
+  },
+  "homepage": "https://github.com/TuncayBasak25/query#readme"
+}
