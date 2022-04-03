@@ -1,1 +1,1 @@
-{"version":3,"file":"testNumber.d.ts","sourceRoot":"","sources":["../../query/testNumber.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAS,MAAM,SAAS,CAAC;AAE/C,wBAAgB,UAAU,CAAC,KAAK,EAAE,MAAM,EAAE,UAAU,EAAE,aAAa,GAAG,OAAO,CA6E5E"}
+{"version":3,"file":"testNumber.d.ts","sourceRoot":"","sources":["../../src/query/testNumber.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAS,MAAM,SAAS,CAAC;AAE/C,wBAAgB,UAAU,CAAC,KAAK,EAAE,MAAM,EAAE,UAAU,EAAE,aAAa,GAAG,OAAO,CA6E5E"}

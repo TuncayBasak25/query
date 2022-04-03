@@ -122,7 +122,7 @@ function testString(value, conditions) {
             }
             case 'end': {
                 if (typeof operationValue === 'string') {
-                    if (value.indexOf(operationValue) + operationValue.length === value.length) {
+                    if (value.indexOf(operationValue) + operationValue.length !== value.length) {
                         return false;
                     }
                     break;
